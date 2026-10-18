@@ -1,1 +1,3 @@
-fastapi\nuvicorn[standard]\nPyJWT[crypto]\n
+fastapi
+uvicorn[standard]
+PyJWT[crypto]
